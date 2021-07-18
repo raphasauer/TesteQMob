@@ -29,4 +29,4 @@ O resultado final pode ser visto na imagem a seguir:
 Meu objetivo era fazer as propriedades de forma dinâmica, porém não encotrei como acessar as informações das propriedades de um `QVariant` dentro do QML. Caso tivesse acesso a essas propriedades, poderia montar a tabela com o cabeçalho customizado. 
 
 ## Considerações finais
-Agradeço a Qmob pela entrevista e pela oportunidade de concorrer a vaga. Também agradeço ao Sandro, que tirou algumas dúvidas que eu tinha a respeito da atividade.
+Agradeço a Qmob pela entrevista e pela oportunidade de concorrer a vaga. Também agradeço ao Sandro, que tirou algumas dúvidas que eu tinha a respeito da atividade. 
